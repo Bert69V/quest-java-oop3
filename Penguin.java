@@ -1,4 +1,4 @@
-public class Penguin extends Bird implements Swim {
+    public class Penguin extends Bird implements Swim {
 
     private boolean swimming;
     private int depths;
